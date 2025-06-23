@@ -4,7 +4,7 @@ import { NewsApiService } from './newsApi';
 export class StockApiService {
   private static instance: StockApiService;
   private finnhubApiKey: string = 'ctbr9j1r01qnhqhqhqd0ctbr9j1r01qnhqhqe0';
-  private alphaVantageKey: string = 'CWH24EN1156BH710';
+  private alphaVantageKey: string = '54XV4LL5383INJ2I';
 
   static getInstance(): StockApiService {
     if (!StockApiService.instance) {
