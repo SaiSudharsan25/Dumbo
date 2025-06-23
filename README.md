@@ -24,7 +24,7 @@ To get real-time financial news, you'll need to set up these free API keys:
   1. Sign up for free account
   2. Get API key from dashboard
   3. Free tier: 5 calls/minute, 500 calls/day
-  4. Already configured: `CWH24EN1156BH710`
+  4. Already configured: `54XV4LL5383INJ2I`
 
 #### 3. Finnhub (Market News)
 - **Website**: [https://finnhub.io/](https://finnhub.io/)
