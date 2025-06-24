@@ -5,7 +5,7 @@ export class DeepSeekApiService {
   
   // 🔑 REPLACE WITH YOUR ACTUAL DEEPSEEK API KEY
   // Get your API key from: https://platform.deepseek.com/
-  private apiKey: string = 'sk-7fef5191809b43db984953fd3c690dfa';
+  private apiKey: string = 'DeepSeek API here';
   private baseUrl: string = 'https://api.deepseek.com/v1/chat/completions';
 
   static getInstance(): DeepSeekApiService {
